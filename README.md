@@ -1,2 +1,2 @@
 # sampleportfolio
-A sample portfolio design.
+A sample responsive portfolio design.
